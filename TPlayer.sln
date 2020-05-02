@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPlayer", "TPlayer.csproj", "{BEC29920-4712-4D46-971F-3985A129DE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Core\Model.csproj", "{A87AB5BB-E1CE-4F38-8B74-2D394D9E8500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{72E1C590-CC41-4600-BDB9-236B1AE98271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC29920-4712-4D46-971F-3985A129DE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC29920-4712-4D46-971F-3985A129DE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC29920-4712-4D46-971F-3985A129DE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC29920-4712-4D46-971F-3985A129DE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87AB5BB-E1CE-4F38-8B74-2D394D9E8500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87AB5BB-E1CE-4F38-8B74-2D394D9E8500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87AB5BB-E1CE-4F38-8B74-2D394D9E8500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87AB5BB-E1CE-4F38-8B74-2D394D9E8500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E1C590-CC41-4600-BDB9-236B1AE98271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E1C590-CC41-4600-BDB9-236B1AE98271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E1C590-CC41-4600-BDB9-236B1AE98271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E1C590-CC41-4600-BDB9-236B1AE98271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

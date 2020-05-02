@@ -1,0 +1,6 @@
+/.vs/
+/bin/Debug/
+/obj/
+**/obj
+/*.csproj.user
+*.suo
